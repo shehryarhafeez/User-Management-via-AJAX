@@ -26,11 +26,18 @@ This project provides a complete frontend interface for managing users through t
 - **Error Handling**: Graceful fallback to cached data when API fails  
 - **Responsive Design**: Works on desktop and mobile devices  
 
+## 📡Limitations
+
+-The reqres.in API is a mock service and doesn't persist changes
+-User avatars for locally added users are generated from placeholder images
+-Email addresses for created users are simulated
+
 ---
 
 ## 📡 API Endpoints Used
 
 The application interacts with these `reqres.in` endpoints:
+
 
 | Endpoint                  | Method | Description               |
 |---------------------------|--------|---------------------------|
