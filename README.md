@@ -28,9 +28,9 @@ This project provides a complete frontend interface for managing users through t
 
 ## 📡Limitations
 
--The reqres.in API is a mock service and doesn't persist changes
--User avatars for locally added users are generated from placeholder images
--Email addresses for created users are simulated
+- **The reqres.in API is a mock service and doesn't persist changes
+- **User avatars for locally added users are generated from placeholder images
+- **Email addresses for created users are simulated
 
 ---
 
