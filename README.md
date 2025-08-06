@@ -38,6 +38,8 @@ This project provides a complete frontend interface for managing users through t
 
 The application interacts with these `reqres.in` endpoints:
 
+## Live Demo
+- https://shehryarhafeez.github.io/User-Management-via-AJAX/
 
 | Endpoint                  | Method | Description               |
 |---------------------------|--------|---------------------------|
